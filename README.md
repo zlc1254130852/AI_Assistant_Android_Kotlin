@@ -8,3 +8,8 @@ Text Input Page (Click on the microphone icon to swith to voice input)
 Voice Input Page (Click on the keyboard icon to swith to voice input)
 
 ![44888429fad88b67fdcd5d90b8e9d93](https://github.com/zlc1254130852/AI_Assistant_Android/assets/118621914/b2952e73-1b52-4f60-bc0c-a02f53bf0ac3)
+
+Obeject Detection Page
+
+![a75cadac3d6d7a0d2c7688b434ab9c7](https://github.com/zlc1254130852/AI_Assistant_Android_Kotlin/assets/118621914/70163eb8-406d-42a3-a89a-d03edf54f66b)
+
